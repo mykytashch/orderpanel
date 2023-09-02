@@ -1,0 +1,1 @@
+po prostu nowy plik.py
